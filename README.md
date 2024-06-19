@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <b11035021.jpeg>
 #include <cv.h>
 #include <highgui.h> 
 
