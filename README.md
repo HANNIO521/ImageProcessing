@@ -1,6 +1,6 @@
-#include <b11035021.jpeg>
-#include <cv.h>
-#include <highgui.h> 
+#include <b11035021.jpg>
+#include <b11035021 2.jpg>
+#include <b11035021 3.jpg> 
 
 int main()
 {
